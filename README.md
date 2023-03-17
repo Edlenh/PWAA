@@ -1,5 +1,6 @@
 # PWAA
-Progessive Web Application assignment
+Progessive Web Application assignment, a simple Text Editor that works offline.
+
 ## Cacheing <br>
 <img width="642" alt="1" src="https://user-images.githubusercontent.com/84059980/226056657-4210407a-12c7-4f1e-9849-a8f16ab674f5.png">
 
