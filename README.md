@@ -1,4 +1,5 @@
 # PWAA
+## Heroku URL https://texteditorpwaa.herokuapp.com/
 Progessive Web Application assignment, a simple Text Editor that works offline.
 
 ## Cacheing <br>
